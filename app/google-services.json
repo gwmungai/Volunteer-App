@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "581847233754",
+    "project_id": "volunteer-app-229e7",
+    "storage_bucket": "volunteer-app-229e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581847233754:android:c6d62a7d91d5348e7f21e3",
+        "android_client_info": {
+          "package_name": "com.example.volunteerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAve735LGajbH1QW_42LQH5Cqdelk-eVoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
